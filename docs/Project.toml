@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MyDemoPackage = "91b3a4e1-0a4f-4449-9a30-ef9728f1b0bc"
